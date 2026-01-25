@@ -1,22 +1,529 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>MMO Quick Tips</title>
-    <link>https://yourwebsite.com</link>
+    <link>https://mstander.github.io/mmo-podcast/</link>
     <description>Short, actionable tips for making money online. New tips daily.</description>
     <language>en-us</language>
-    <copyright/>
-    <lastBuildDate>Sat, 24 Jan 2026 14:43:39 +0000</lastBuildDate>
+    <copyright>© 2025 MMO Daily</copyright>
+    <lastBuildDate>Sun, 25 Jan 2026 08:30:27 +0000</lastBuildDate>
+    <generator>Azure Audio Pipeline</generator>
+    <ttl>60</ttl>
+    <itunes:subtitle>Quick daily tips for making money online</itunes:subtitle>
+    <itunes:summary>Short, actionable tips for making money online. New tips daily.</itunes:summary>
     <itunes:author>MMO Daily</itunes:author>
     <itunes:owner>
       <itunes:name>MMO Daily</itunes:name>
-      <itunes:email>your@email.com</itunes:email>
+      <itunes:email>4mstander@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://yourwebsite.com/podcast-cover.jpg"/>
-    <itunes:category text="Business"/>
+    <itunes:image href="https://mstander.github.io/mmo-podcast/cover.jpg"/>
+    <itunes:category text="Business">
+      <itunes:category text="Marketing"/>
+    </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <atom:link href="https://yourwebsite.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <podcast:locked owner="4mstander@gmail.com">yes</podcast:locked>
+    <atom:link href="https://mstander.github.io/mmo-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Here’s what nobody tells you about focus: your phone placement matters more than willpo...</title>
+      <description>Here’s what nobody tells you about focus: your phone placement matters more than willpower. Put your phone in another room for 60 minutes and work with a visible timer. Check the description for th...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Here’s what nobody tells you about focus: your phone placement matters more than willpower. Put your phone in another room for 60 minutes and work with a visible timer. Check the description for th...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0036-heres-what-nobody-tells-you-about-focus-your-phone-placeme/mmo_0036_heres-what-nobody-tells-you-about-focus-your-pho_35d362.mp3" length="91728" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0036-heres-what-nobody-tells-you-about-focus-your-phone-placeme/mmo_0036_heres-what-nobody-tells-you-about-focus-your-pho_35d362.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:50 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Here’s what nobody tells you about focus: your phone placement matters more than willpo...</itunes:title>
+      <itunes:summary>Here’s what nobody tells you about focus: your phone placement matters more than willpower. Put your phone in another room for 60 minutes and work with a visible timer. Check the description for th...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>36</itunes:episode>
+    </item>
+    <item>
+      <title>What if you could feel less overwhelmed by changing just one list? Write down your top...</title>
+      <description>What if you could feel less overwhelmed by changing just one list? Write down your top three tasks for tomorrow, and delete or defer everything else until they’re done. Get the full strategy in the...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[What if you could feel less overwhelmed by changing just one list? Write down your top three tasks for tomorrow, and delete or defer everything else until they’re done. Get the full strategy in the...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0035-what-if-you-could-feel-less-overwhelmed-by-changing-just-one/mmo_0035_what-if-you-could-feel-less-overwhelmed-by-changin_1ff401.mp3" length="92736" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0035-what-if-you-could-feel-less-overwhelmed-by-changing-just-one/mmo_0035_what-if-you-could-feel-less-overwhelmed-by-changin_1ff401.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:46 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>What if you could feel less overwhelmed by changing just one list? Write down your top...</itunes:title>
+      <itunes:summary>What if you could feel less overwhelmed by changing just one list? Write down your top three tasks for tomorrow, and delete or defer everything else until they’re done. Get the full strategy in the...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>35</itunes:episode>
+    </item>
+    <item>
+      <title>Did you know many beginners quit because they pick a niche they don’t actually want to...</title>
+      <description>Did you know many beginners quit because they pick a niche they don’t actually want to learn? Choose a topic you can stick with for at least six months and list 20 problems you can help solve. Get...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Did you know many beginners quit because they pick a niche they don’t actually want to learn? Choose a topic you can stick with for at least six months and list 20 problems you can help solve. Get...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0033-did-you-know-many-beginners-quit-because-they-pick-a-niche-t/mmo_0033_did-you-know-many-beginners-quit-because-they-pick_d12e8f.mp3" length="94896" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0033-did-you-know-many-beginners-quit-because-they-pick-a-niche-t/mmo_0033_did-you-know-many-beginners-quit-because-they-pick_d12e8f.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:44 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Did you know many beginners quit because they pick a niche they don’t actually want to...</itunes:title>
+      <itunes:summary>Did you know many beginners quit because they pick a niche they don’t actually want to learn? Choose a topic you can stick with for at least six months and list 20 problems you can help solve. Get...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>33</itunes:episode>
+    </item>
+    <item>
+      <title>Here’s what nobody tells you about affiliate marketing: the product doesn’t matter if y...</title>
+      <description>Here’s what nobody tells you about affiliate marketing: the product doesn’t matter if your audience is unclear. Write a one-sentence promise like “I help busy parents cook faster” and only share pr...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Here’s what nobody tells you about affiliate marketing: the product doesn’t matter if your audience is unclear. Write a one-sentence promise like “I help busy parents cook faster” and only share pr...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0032-heres-what-nobody-tells-you-about-affiliate-marketing-the/mmo_0032_heres-what-nobody-tells-you-about-affiliate-marke_58b425.mp3" length="111024" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0032-heres-what-nobody-tells-you-about-affiliate-marketing-the/mmo_0032_heres-what-nobody-tells-you-about-affiliate-marke_58b425.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:41 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Here’s what nobody tells you about affiliate marketing: the product doesn’t matter if y...</itunes:title>
+      <itunes:summary>Here’s what nobody tells you about affiliate marketing: the product doesn’t matter if your audience is unclear. Write a one-sentence promise like “I help busy parents cook faster” and only share pr...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>32</itunes:episode>
+    </item>
+    <item>
+      <title>Want to start affiliate marketing with no money? Pick one free platform you can show up...</title>
+      <description>Want to start affiliate marketing with no money? Pick one free platform you can show up on daily, like TikTok, YouTube Shorts, or a blog on a free site, and choose one simple niche. Create helpful...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Want to start affiliate marketing with no money? Pick one free platform you can show up on daily, like TikTok, YouTube Shorts, or a blog on a free site, and choose one simple niche. Create helpful...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0031-want-to-start-affiliate-marketing-with-no-money-pick-one-fr/mmo_0031_want-to-start-affiliate-marketing-with-no-money-p_53209c.mp3" length="130608" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0031-want-to-start-affiliate-marketing-with-no-money-pick-one-fr/mmo_0031_want-to-start-affiliate-marketing-with-no-money-p_53209c.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:40 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Want to start affiliate marketing with no money? Pick one free platform you can show up...</itunes:title>
+      <itunes:summary>Want to start affiliate marketing with no money? Pick one free platform you can show up on daily, like TikTok, YouTube Shorts, or a blog on a free site, and choose one simple niche. Create helpful...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>31</itunes:episode>
+    </item>
+    <item>
+      <title>Here’s what nobody tells you about online business: your first goal is showing up, not...</title>
+      <description>Here’s what nobody tells you about online business: your first goal is showing up, not being perfect. Set a simple schedule you can keep, like 20 minutes a day, and treat it like an appointment. Ge...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Here’s what nobody tells you about online business: your first goal is showing up, not being perfect. Set a simple schedule you can keep, like 20 minutes a day, and treat it like an appointment. Ge...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0030-heres-what-nobody-tells-you-about-online-business-your-fir/mmo_0030_heres-what-nobody-tells-you-about-online-business_fc764c.mp3" length="103968" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0030-heres-what-nobody-tells-you-about-online-business-your-fir/mmo_0030_heres-what-nobody-tells-you-about-online-business_fc764c.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:35 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Here’s what nobody tells you about online business: your first goal is showing up, not...</itunes:title>
+      <itunes:summary>Here’s what nobody tells you about online business: your first goal is showing up, not being perfect. Set a simple schedule you can keep, like 20 minutes a day, and treat it like an appointment. Ge...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>30</itunes:episode>
+    </item>
+    <item>
+      <title>Did you know motivation is unreliable for beginners? Pick one small task you can do eve...</title>
+      <description>Did you know motivation is unreliable for beginners? Pick one small task you can do even on low-energy days, like writing one post or replying to one message. Track it daily so consistency becomes...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Did you know motivation is unreliable for beginners? Pick one small task you can do even on low-energy days, like writing one post or replying to one message. Track it daily so consistency becomes...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0029-did-you-know-motivation-is-unreliable-for-beginners-pick-on/mmo_0029_did-you-know-motivation-is-unreliable-for-beginner_fab692.mp3" length="115344" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0029-did-you-know-motivation-is-unreliable-for-beginners-pick-on/mmo_0029_did-you-know-motivation-is-unreliable-for-beginner_fab692.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:32 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Did you know motivation is unreliable for beginners? Pick one small task you can do eve...</itunes:title>
+      <itunes:summary>Did you know motivation is unreliable for beginners? Pick one small task you can do even on low-energy days, like writing one post or replying to one message. Track it daily so consistency becomes...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>29</itunes:episode>
+    </item>
+    <item>
+      <title>Here’s what most beginners miss: the thank-you page can grow your list faster than your...</title>
+      <description>Here’s what most beginners miss: the thank-you page can grow your list faster than your homepage. After someone opts in, offer a second related freebie and invite them to subscribe again for it. Ch...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Here’s what most beginners miss: the thank-you page can grow your list faster than your homepage. After someone opts in, offer a second related freebie and invite them to subscribe again for it. Ch...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0028-heres-what-most-beginners-miss-the-thank-you-page-can-grow/mmo_0028_heres-what-most-beginners-miss-the-thank-you-pag_e2cded.mp3" length="100800" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0028-heres-what-most-beginners-miss-the-thank-you-page-can-grow/mmo_0028_heres-what-most-beginners-miss-the-thank-you-pag_e2cded.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:30 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Here’s what most beginners miss: the thank-you page can grow your list faster than your...</itunes:title>
+      <itunes:summary>Here’s what most beginners miss: the thank-you page can grow your list faster than your homepage. After someone opts in, offer a second related freebie and invite them to subscribe again for it. Ch...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>28</itunes:episode>
+    </item>
+    <item>
+      <title>Did you know your first email doesn’t need to sell anything? Write a simple welcome ema...</title>
+      <description>Did you know your first email doesn’t need to sell anything? Write a simple welcome email that delivers one helpful tip and tells subscribers what to expect next. Get the full strategy in the link...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Did you know your first email doesn’t need to sell anything? Write a simple welcome email that delivers one helpful tip and tells subscribers what to expect next. Get the full strategy in the link...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0027-did-you-know-your-first-email-doesnt-need-to-sell-anything/mmo_0027_did-you-know-your-first-email-doesnt-need-to-sell_37dd62.mp3" length="91584" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0027-did-you-know-your-first-email-doesnt-need-to-sell-anything/mmo_0027_did-you-know-your-first-email-doesnt-need-to-sell_37dd62.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:29 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Did you know your first email doesn’t need to sell anything? Write a simple welcome ema...</itunes:title>
+      <itunes:summary>Did you know your first email doesn’t need to sell anything? Write a simple welcome email that delivers one helpful tip and tells subscribers what to expect next. Get the full strategy in the link...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>27</itunes:episode>
+    </item>
+    <item>
+      <title>Here’s what nobody tells you about affiliate links: they don’t sell on their own. Write...</title>
+      <description>Here’s what nobody tells you about affiliate links: they don’t sell on their own. Write a short pre-sell message that explains who the product is for and what result it helps with, then place the l...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Here’s what nobody tells you about affiliate links: they don’t sell on their own. Write a short pre-sell message that explains who the product is for and what result it helps with, then place the l...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0026-heres-what-nobody-tells-you-about-affiliate-links-they-don/mmo_0026_heres-what-nobody-tells-you-about-affiliate-links_7cc0b2.mp3" length="105264" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0026-heres-what-nobody-tells-you-about-affiliate-links-they-don/mmo_0026_heres-what-nobody-tells-you-about-affiliate-links_7cc0b2.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:28 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Here’s what nobody tells you about affiliate links: they don’t sell on their own. Write...</itunes:title>
+      <itunes:summary>Here’s what nobody tells you about affiliate links: they don’t sell on their own. Write a short pre-sell message that explains who the product is for and what result it helps with, then place the l...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>26</itunes:episode>
+    </item>
+    <item>
+      <title>Did you know picking the wrong product is the fastest way to waste time? Start by choos...</title>
+      <description>Did you know picking the wrong product is the fastest way to waste time? Start by choosing one product you can genuinely explain and support, then build your content around the problems it solves....
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Did you know picking the wrong product is the fastest way to waste time? Start by choosing one product you can genuinely explain and support, then build your content around the problems it solves....
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0025-did-you-know-picking-the-wrong-product-is-the-fastest-way-to/mmo_0025_did-you-know-picking-the-wrong-product-is-the-fast_51475b.mp3" length="100944" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0025-did-you-know-picking-the-wrong-product-is-the-fastest-way-to/mmo_0025_did-you-know-picking-the-wrong-product-is-the-fast_51475b.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:27 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Did you know picking the wrong product is the fastest way to waste time? Start by choos...</itunes:title>
+      <itunes:summary>Did you know picking the wrong product is the fastest way to waste time? Start by choosing one product you can genuinely explain and support, then build your content around the problems it solves....
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>25</itunes:episode>
+    </item>
+    <item>
+      <title>Are you trying to grow on five platforms at once? Pick one channel for the next 30 days...</title>
+      <description>Are you trying to grow on five platforms at once? Pick one channel for the next 30 days and post consistently there before adding anything else. Check the description for the free guide.
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Are you trying to grow on five platforms at once? Pick one channel for the next 30 days and post consistently there before adding anything else. Check the description for the free guide.
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0024-are-you-trying-to-grow-on-five-platforms-at-once-pick-one-c/mmo_0024_are-you-trying-to-grow-on-five-platforms-at-once_f2aef5.mp3" length="87984" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0024-are-you-trying-to-grow-on-five-platforms-at-once-pick-one-c/mmo_0024_are-you-trying-to-grow-on-five-platforms-at-once_f2aef5.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:26 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Are you trying to grow on five platforms at once? Pick one channel for the next 30 days...</itunes:title>
+      <itunes:summary>Are you trying to grow on five platforms at once? Pick one channel for the next 30 days and post consistently there before adding anything else. Check the description for the free guide.
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>24</itunes:episode>
+    </item>
+    <item>
+      <title>Here’s what nobody tells you about traffic: your profile is often your first funnel. Up...</title>
+      <description>Here’s what nobody tells you about traffic: your profile is often your first funnel. Update your bio to say who you help, what you help with, and add one clear link. Get the full strategy in the li...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Here’s what nobody tells you about traffic: your profile is often your first funnel. Update your bio to say who you help, what you help with, and add one clear link. Get the full strategy in the li...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0023-heres-what-nobody-tells-you-about-traffic-your-profile-is/mmo_0023_heres-what-nobody-tells-you-about-traffic-your-p_610542.mp3" length="94320" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0023-heres-what-nobody-tells-you-about-traffic-your-profile-is/mmo_0023_heres-what-nobody-tells-you-about-traffic-your-p_610542.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:25 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Here’s what nobody tells you about traffic: your profile is often your first funnel. Up...</itunes:title>
+      <itunes:summary>Here’s what nobody tells you about traffic: your profile is often your first funnel. Update your bio to say who you help, what you help with, and add one clear link. Get the full strategy in the li...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>23</itunes:episode>
+    </item>
+    <item>
+      <title>Here's what nobody tells you: “make money online” is not a niche. Pick a clear niche li...</title>
+      <description>Here's what nobody tells you: “make money online” is not a niche. Pick a clear niche like meal prep for busy parents or budgeting for students so people instantly know why to follow you. Clarity at...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Here's what nobody tells you: “make money online” is not a niche. Pick a clear niche like meal prep for busy parents or budgeting for students so people instantly know why to follow you. Clarity at...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0022-heres-what-nobody-tells-you-make-money-online-is-not-a-n/mmo_0022_here-s-what-nobody-tells-you-make-money-online_cc582b.mp3" length="120960" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0022-heres-what-nobody-tells-you-make-money-online-is-not-a-n/mmo_0022_here-s-what-nobody-tells-you-make-money-online_cc582b.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:24 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Here's what nobody tells you: “make money online” is not a niche. Pick a clear niche li...</itunes:title>
+      <itunes:summary>Here's what nobody tells you: “make money online” is not a niche. Pick a clear niche like meal prep for busy parents or budgeting for students so people instantly know why to follow you. Clarity at...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>22</itunes:episode>
+    </item>
+    <item>
+      <title>Did you know most people pick a platform before they pick a problem to solve? Start by...</title>
+      <description>Did you know most people pick a platform before they pick a problem to solve? Start by choosing one audience and one specific problem you can help with, then create content around that. This makes...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Did you know most people pick a platform before they pick a problem to solve? Start by choosing one audience and one specific problem you can help with, then create content around that. This makes...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0021-did-you-know-most-people-pick-a-platform-before-they-pick-a/mmo_0021_did-you-know-most-people-pick-a-platform-before-th_45b5b0.mp3" length="122112" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0021-did-you-know-most-people-pick-a-platform-before-they-pick-a/mmo_0021_did-you-know-most-people-pick-a-platform-before-th_45b5b0.mp3</guid>
+      <pubDate>Sun, 25 Jan 2026 07:14:19 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Did you know most people pick a platform before they pick a problem to solve? Start by...</itunes:title>
+      <itunes:summary>Did you know most people pick a platform before they pick a problem to solve? Start by choosing one audience and one specific problem you can help with, then create content around that. This makes...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>21</itunes:episode>
+    </item>
+    <item>
+      <title>What if you’re struggling to write affiliate content? Start with a checklist post: “Wha...</title>
+      <description>What if you’re struggling to write affiliate content? Start with a checklist post: “What to look for in a good X.” Then recommend one option that meets the checklist. Check the description for the...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[What if you’re struggling to write affiliate content? Start with a checklist post: “What to look for in a good X.” Then recommend one option that meets the checklist. Check the description for the...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0020-what-if-youre-struggling-to-write-affiliate-content-start/mmo_0020_what-if-youre-struggling-to-write-affiliate-conte_cf3864.mp3" length="94752" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0020-what-if-youre-struggling-to-write-affiliate-content-start/mmo_0020_what-if-youre-struggling-to-write-affiliate-conte_cf3864.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 13:39:53 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>What if you’re struggling to write affiliate content? Start with a checklist post: “Wha...</itunes:title>
+      <itunes:summary>What if you’re struggling to write affiliate content? Start with a checklist post: “What to look for in a good X.” Then recommend one option that meets the checklist. Check the description for the...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>20</itunes:episode>
+    </item>
+    <item>
+      <title>Most people don’t know that a resource page can outperform random links. Create one pag...</title>
+      <description>Most people don’t know that a resource page can outperform random links. Create one page called “Tools I Use” and group recommendations by problem. Update it as you learn more. Get the full strateg...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Most people don’t know that a resource page can outperform random links. Create one page called “Tools I Use” and group recommendations by problem. Update it as you learn more. Get the full strateg...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0019-most-people-dont-know-that-a-resource-page-can-outperform-r/mmo_0019_most-people-dont-know-that-a-resource-page-can-ou_cc819f.mp3" length="103392" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0019-most-people-dont-know-that-a-resource-page-can-outperform-r/mmo_0019_most-people-dont-know-that-a-resource-page-can-ou_cc819f.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 13:39:49 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Most people don’t know that a resource page can outperform random links. Create one pag...</itunes:title>
+      <itunes:summary>Most people don’t know that a resource page can outperform random links. Create one page called “Tools I Use” and group recommendations by problem. Update it as you learn more. Get the full strateg...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
+      <title>Here’s what nobody tells you about traffic: consistency beats intensity. Choose one pla...</title>
+      <description>Here’s what nobody tells you about traffic: consistency beats intensity. Choose one platform and publish on a simple schedule you can maintain. One helpful post each week is enough to learn and imp...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Here’s what nobody tells you about traffic: consistency beats intensity. Choose one platform and publish on a simple schedule you can maintain. One helpful post each week is enough to learn and imp...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0023-heres-what-nobody-tells-you-about-traffic-your-profile-is/mmo_0018_heres-what-nobody-tells-you-about-traffic-consis_7090cf.mp3" length="112032" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0023-heres-what-nobody-tells-you-about-traffic-your-profile-is/mmo_0018_heres-what-nobody-tells-you-about-traffic-consis_7090cf.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 13:39:48 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Here’s what nobody tells you about traffic: consistency beats intensity. Choose one pla...</itunes:title>
+      <itunes:summary>Here’s what nobody tells you about traffic: consistency beats intensity. Choose one platform and publish on a simple schedule you can maintain. One helpful post each week is enough to learn and imp...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <title>Surprising fact: beginners often ignore the affiliate program rules and lose time. Read...</title>
+      <description>Surprising fact: beginners often ignore the affiliate program rules and lose time. Read the terms about email, coupons, and brand bidding before you post links. It protects your account and keeps t...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Surprising fact: beginners often ignore the affiliate program rules and lose time. Read the terms about email, coupons, and brand bidding before you post links. It protects your account and keeps t...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0016-surprising-fact-beginners-often-ignore-the-affiliate-progra/mmo_0016_surprising-fact-beginners-often-ignore-the-affili_7a63e0.mp3" length="113040" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0016-surprising-fact-beginners-often-ignore-the-affiliate-progra/mmo_0016_surprising-fact-beginners-often-ignore-the-affili_7a63e0.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 13:39:46 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Surprising fact: beginners often ignore the affiliate program rules and lose time. Read...</itunes:title>
+      <itunes:summary>Surprising fact: beginners often ignore the affiliate program rules and lose time. Read the terms about email, coupons, and brand bidding before you post links. It protects your account and keeps t...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+    </item>
+    <item>
+      <title>What if your content isn’t converting because it’s too generic? Add specific use cases...</title>
+      <description>What if your content isn’t converting because it’s too generic? Add specific use cases like “for small kitchens” or “for busy weekdays.” Specificity helps readers see themselves using the product....
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[What if your content isn’t converting because it’s too generic? Add specific use cases like “for small kitchens” or “for busy weekdays.” Specificity helps readers see themselves using the product....
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0015-what-if-your-content-isnt-converting-because-its-too-gener/mmo_0015_what-if-your-content-isnt-converting-because-its_bca15d.mp3" length="110448" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0015-what-if-your-content-isnt-converting-because-its-too-gener/mmo_0015_what-if-your-content-isnt-converting-because-its_bca15d.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 13:39:42 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>What if your content isn’t converting because it’s too generic? Add specific use cases...</itunes:title>
+      <itunes:summary>What if your content isn’t converting because it’s too generic? Add specific use cases like “for small kitchens” or “for busy weekdays.” Specificity helps readers see themselves using the product....
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>15</itunes:episode>
+    </item>
     <item>
       <title>Here’s the truth about product reviews: the structure matters more than length. Use a s...</title>
       <description>Here’s the truth about product reviews: the structure matters more than length. Use a simple format: what it is, who it’s for, what you like, what you don’t, and alternatives. This keeps your revie...
@@ -27,16 +534,45 @@ https://theincomesecret.com/</description>
 
 Free guide here -&gt;
 https://theincomesecret.com/]]&gt;</content:encoded>
-      <enclosure url="https://archive.org/download/mmo-audio-0014-when-you-promote-software-create-a-short-getting-started/mmo_0014_heres-the-truth-about-product-reviews-the-struct_f2706d.mp3" length="116640" type="audio/mpeg"/>
-      <guid>https://archive.org/download/mmo-audio-0014-when-you-promote-software-create-a-short-getting-started/mmo_0014_heres-the-truth-about-product-reviews-the-struct_f2706d.mp3</guid>
+      <enclosure url="https://archive.org/download/mmo-audio-0014-heres-the-truth-about-product-reviews-the-structure-matter/mmo_0014_heres-the-truth-about-product-reviews-the-struct_f2706d.mp3" length="116640" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0014-heres-the-truth-about-product-reviews-the-structure-matter/mmo_0014_heres-the-truth-about-product-reviews-the-struct_f2706d.mp3</guid>
       <pubDate>Sat, 24 Jan 2026 13:39:40 +0000</pubDate>
       <link>https://theincomesecret.com/</link>
       <itunes:title>Here’s the truth about product reviews: the structure matters more than length. Use a s...</itunes:title>
+      <itunes:summary>Here’s the truth about product reviews: the structure matters more than length. Use a simple format: what it is, who it’s for, what you like, what you don’t, and alternatives. This keeps your revie...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
       <itunes:author>MMO Daily</itunes:author>
       <itunes:duration>0:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>14</itunes:episode>
+    </item>
+    <item>
+      <title>Most people don’t know you can pre-qualify buyers with one line. Include a note like “B...</title>
+      <description>Most people don’t know you can pre-qualify buyers with one line. Include a note like “Best if you need X, not ideal if you need Y.” That reduces confusion and helps the right person click. Get the...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Most people don’t know you can pre-qualify buyers with one line. Include a note like “Best if you need X, not ideal if you need Y.” That reduces confusion and helps the right person click. Get the...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0013-most-people-dont-know-you-can-pre-qualify-buyers-with-one-l/mmo_0013_most-people-dont-know-you-can-pre-qualify-buyers_64deaa.mp3" length="106128" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0013-most-people-dont-know-you-can-pre-qualify-buyers-with-one-l/mmo_0013_most-people-dont-know-you-can-pre-qualify-buyers_64deaa.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 13:39:39 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Most people don’t know you can pre-qualify buyers with one line. Include a note like “B...</itunes:title>
+      <itunes:summary>Most people don’t know you can pre-qualify buyers with one line. Include a note like “Best if you need X, not ideal if you need Y.” That reduces confusion and helps the right person click. Get the...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
     </item>
     <item>
       <title>Did you know your affiliate link placement can change results? Put the first link after...</title>
@@ -48,11 +584,15 @@ https://theincomesecret.com/</description>
 
 Free guide here -&gt;
 https://theincomesecret.com/]]&gt;</content:encoded>
-      <enclosure url="https://archive.org/download/mmo-audio-0012-use-a-spreadsheet-to-track-programs-commission-rates-cooki/mmo_0012_did-you-know-your-affiliate-link-placement-can-cha_89f1b9.mp3" length="100656" type="audio/mpeg"/>
-      <guid>https://archive.org/download/mmo-audio-0012-use-a-spreadsheet-to-track-programs-commission-rates-cooki/mmo_0012_did-you-know-your-affiliate-link-placement-can-cha_89f1b9.mp3</guid>
+      <enclosure url="https://archive.org/download/mmo-audio-0012-did-you-know-your-affiliate-link-placement-can-change-result/mmo_0012_did-you-know-your-affiliate-link-placement-can-cha_89f1b9.mp3" length="100656" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0012-did-you-know-your-affiliate-link-placement-can-change-result/mmo_0012_did-you-know-your-affiliate-link-placement-can-cha_89f1b9.mp3</guid>
       <pubDate>Sat, 24 Jan 2026 13:39:35 +0000</pubDate>
       <link>https://theincomesecret.com/</link>
       <itunes:title>Did you know your affiliate link placement can change results? Put the first link after...</itunes:title>
+      <itunes:summary>Did you know your affiliate link placement can change results? Put the first link after you’ve explained the benefit, not at the very top. Add a second link near the end for people who are ready. C...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
       <itunes:author>MMO Daily</itunes:author>
       <itunes:duration>0:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -74,11 +614,90 @@ https://theincomesecret.com/]]&gt;</content:encoded>
       <pubDate>Sat, 24 Jan 2026 13:39:33 +0000</pubDate>
       <link>https://theincomesecret.com/</link>
       <itunes:title>Here’s what nobody tells you: your “About” page can sell without selling. Add one sente...</itunes:title>
+      <itunes:summary>Here’s what nobody tells you: your “About” page can sell without selling. Add one sentence about who you help, what topics you cover, and what tools you recommend. Then link to your best beginner r...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
       <itunes:author>MMO Daily</itunes:author>
       <itunes:duration>0:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title>Most beginners forget to track what’s working. Use separate tracking IDs or unique link...</title>
+      <description>Most beginners forget to track what’s working. Use separate tracking IDs or unique links for each platform so you know where clicks come from. That data helps you double down on the right content....
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Most beginners forget to track what’s working. Use separate tracking IDs or unique links for each platform so you know where clicks come from. That data helps you double down on the right content....
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0010-most-beginners-forget-to-track-whats-working-use-separate/mmo_0010_most-beginners-forget-to-track-whats-working-use_7c149b.mp3" length="103536" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0010-most-beginners-forget-to-track-whats-working-use-separate/mmo_0010_most-beginners-forget-to-track-whats-working-use_7c149b.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 13:39:29 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Most beginners forget to track what’s working. Use separate tracking IDs or unique link...</itunes:title>
+      <itunes:summary>Most beginners forget to track what’s working. Use separate tracking IDs or unique links for each platform so you know where clicks come from. That data helps you double down on the right content....
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title>What if you could create affiliate content without sounding salesy? Teach a small lesso...</title>
+      <description>What if you could create affiliate content without sounding salesy? Teach a small lesson first, then mention the tool that helps complete the task. Keep the focus on the process, not the purchase....
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[What if you could create affiliate content without sounding salesy? Teach a small lesson first, then mention the tool that helps complete the task. Keep the focus on the process, not the purchase....
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0009-what-if-you-could-create-affiliate-content-without-sounding/mmo_0009_what-if-you-could-create-affiliate-content-without_7e92da.mp3" length="110304" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0009-what-if-you-could-create-affiliate-content-without-sounding/mmo_0009_what-if-you-could-create-affiliate-content-without_7e92da.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 13:39:25 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>What if you could create affiliate content without sounding salesy? Teach a small lesso...</itunes:title>
+      <itunes:summary>What if you could create affiliate content without sounding salesy? Teach a small lesson first, then mention the tool that helps complete the task. Keep the focus on the process, not the purchase....
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>Surprising fact: a basic comparison beats a long sales pitch. Compare two similar optio...</title>
+      <description>Surprising fact: a basic comparison beats a long sales pitch. Compare two similar options and clearly state who each one is best for. People appreciate guidance, not pressure. Check the description...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Surprising fact: a basic comparison beats a long sales pitch. Compare two similar options and clearly state who each one is best for. People appreciate guidance, not pressure. Check the description...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0008-surprising-fact-a-basic-comparison-beats-a-long-sales-pitch/mmo_0008_surprising-fact-a-basic-comparison-beats-a-long-s_1b31ed.mp3" length="108000" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0008-surprising-fact-a-basic-comparison-beats-a-long-sales-pitch/mmo_0008_surprising-fact-a-basic-comparison-beats-a-long-s_1b31ed.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 13:39:23 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Surprising fact: a basic comparison beats a long sales pitch. Compare two similar optio...</itunes:title>
+      <itunes:summary>Surprising fact: a basic comparison beats a long sales pitch. Compare two similar options and clearly state who each one is best for. People appreciate guidance, not pressure. Check the description...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
     </item>
     <item>
       <title>Did you notice how some recommendations feel trustworthy right away? Add a short discla...</title>
@@ -95,6 +714,10 @@ https://theincomesecret.com/]]&gt;</content:encoded>
       <pubDate>Sat, 24 Jan 2026 13:39:21 +0000</pubDate>
       <link>https://theincomesecret.com/</link>
       <itunes:title>Did you notice how some recommendations feel trustworthy right away? Add a short discla...</itunes:title>
+      <itunes:summary>Did you notice how some recommendations feel trustworthy right away? Add a short disclaimer like “This is an affiliate link” and explain why you chose the product. Transparency builds long-term tru...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
       <itunes:author>MMO Daily</itunes:author>
       <itunes:duration>0:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -116,6 +739,10 @@ https://theincomesecret.com/]]&gt;</content:encoded>
       <pubDate>Sat, 24 Jan 2026 13:39:19 +0000</pubDate>
       <link>https://theincomesecret.com/</link>
       <itunes:title>Here’s the truth: you don’t need dozens of programs at the start. Pick one or two that...</itunes:title>
+      <itunes:summary>Here’s the truth: you don’t need dozens of programs at the start. Pick one or two that fit your niche and learn their products, pricing, and policies well. It’s easier to create helpful content whe...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
       <itunes:author>MMO Daily</itunes:author>
       <itunes:duration>0:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -137,6 +764,10 @@ https://theincomesecret.com/]]&gt;</content:encoded>
       <pubDate>Sat, 24 Jan 2026 13:39:17 +0000</pubDate>
       <link>https://theincomesecret.com/</link>
       <itunes:title>Want a simple way to avoid promoting the wrong product? Read recent one-star and five-s...</itunes:title>
+      <itunes:summary>Want a simple way to avoid promoting the wrong product? Read recent one-star and five-star reviews to learn what buyers love and hate. Use that insight to set honest expectations in your content. G...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
       <itunes:author>MMO Daily</itunes:author>
       <itunes:duration>0:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -158,11 +789,65 @@ https://theincomesecret.com/]]&gt;</content:encoded>
       <pubDate>Sat, 24 Jan 2026 13:39:16 +0000</pubDate>
       <link>https://theincomesecret.com/</link>
       <itunes:title>Most people don’t know this, but affiliate success often starts with keyword research....</itunes:title>
+      <itunes:summary>Most people don’t know this, but affiliate success often starts with keyword research. Use a free tool to find questions people search, then answer one question per post or video. Add your affiliat...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
       <itunes:author>MMO Daily</itunes:author>
       <itunes:duration>0:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>What if your first affiliate niche is too broad to grow? Narrow it to one clear topic,...</title>
+      <description>What if your first affiliate niche is too broad to grow? Narrow it to one clear topic, like “budget meal prep tools” instead of “fitness.” You’ll find content ideas faster and attract the right peo...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[What if your first affiliate niche is too broad to grow? Narrow it to one clear topic, like “budget meal prep tools” instead of “fitness.” You’ll find content ideas faster and attract the right peo...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0003-what-if-your-first-affiliate-niche-is-too-broad-to-grow-nar/mmo_0003_what-if-your-first-affiliate-niche-is-too-broad-to_f267c3.mp3" length="111024" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0003-what-if-your-first-affiliate-niche-is-too-broad-to-grow-nar/mmo_0003_what-if-your-first-affiliate-niche-is-too-broad-to_f267c3.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 13:39:15 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>What if your first affiliate niche is too broad to grow? Narrow it to one clear topic,...</itunes:title>
+      <itunes:summary>What if your first affiliate niche is too broad to grow? Narrow it to one clear topic, like “budget meal prep tools” instead of “fitness.” You’ll find content ideas faster and attract the right peo...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Here’s what nobody tells you about affiliate marketing: the link is not the strategy. C...</title>
+      <description>Here’s what nobody tells you about affiliate marketing: the link is not the strategy. Create a simple page or post that explains the problem, your recommendation, and the next step. Make it easy fo...
+
+Free guide here -&gt;
+https://theincomesecret.com/</description>
+      <content:encoded>&lt;![CDATA[Here’s what nobody tells you about affiliate marketing: the link is not the strategy. Create a simple page or post that explains the problem, your recommendation, and the next step. Make it easy fo...
+
+Free guide here -&gt;
+https://theincomesecret.com/]]&gt;</content:encoded>
+      <enclosure url="https://archive.org/download/mmo-audio-0002-heres-what-nobody-tells-you-about-affiliate-marketing-the/mmo_0002_heres-what-nobody-tells-you-about-affiliate-marke_723413.mp3" length="112896" type="audio/mpeg"/>
+      <guid>https://archive.org/download/mmo-audio-0002-heres-what-nobody-tells-you-about-affiliate-marketing-the/mmo_0002_heres-what-nobody-tells-you-about-affiliate-marke_723413.mp3</guid>
+      <pubDate>Sat, 24 Jan 2026 13:39:12 +0000</pubDate>
+      <link>https://theincomesecret.com/</link>
+      <itunes:title>Here’s what nobody tells you about affiliate marketing: the link is not the strategy. C...</itunes:title>
+      <itunes:summary>Here’s what nobody tells you about affiliate marketing: the link is not the strategy. Create a simple page or post that explains the problem, your recommendation, and the next step. Make it easy fo...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
+      <itunes:author>MMO Daily</itunes:author>
+      <itunes:duration>0:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>Did you know many beginners pick products before understanding their audience? Start by...</title>
@@ -179,6 +864,10 @@ https://theincomesecret.com/]]&gt;</content:encoded>
       <pubDate>Sat, 24 Jan 2026 13:39:08 +0000</pubDate>
       <link>https://theincomesecret.com/</link>
       <itunes:title>Did you know many beginners pick products before understanding their audience? Start by...</itunes:title>
+      <itunes:summary>Did you know many beginners pick products before understanding their audience? Start by writing down who you want to help and what problem they’re trying to solve. Then choose an affiliate offer th...
+
+Free guide here -&gt;
+https://theincomesecret.com/</itunes:summary>
       <itunes:author>MMO Daily</itunes:author>
       <itunes:duration>0:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
